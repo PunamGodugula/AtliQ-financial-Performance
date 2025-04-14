@@ -1,28 +1,46 @@
-# AtliQ Hardware Growth and Data Insights Project
-
-## Overview
-
-Welcome to the AtliQ Hardware Growth and Data Insights Project! In this project, we leveraged data to drive growth and gain valuable insights for AtliQ Hardware. We embarked on a journey to analyze their sales data from 2019 to 2021, evaluate their performance in different countries, identify top-performing products, optimize divisions, and track the success of new products in 2021. Our findings and analyses demonstrate the power of data-driven decision-making in fostering business growth.
-
-## Key Project Highlights
-
-- **Sales Analysis**: We meticulously analyzed AtliQ Hardware's sales data spanning the years 2019 to 2021, providing a comprehensive view of their revenue trends over time.
-
-- **Global Performance**: We assessed how well AtliQ Hardware's products sold in various countries and compared their performance against predefined targets.
-
-- **Product Insights**: We identified the top-performing products, helping AtliQ Hardware focus on their most successful offerings.
-
-- **Division Optimization**: Our analysis provided insights into the performance of different divisions within AtliQ Hardware, enabling more efficient resource allocation.
-
-- **New Product Success**: We tracked the performance of new products introduced in 2021, contributing to informed product development decisions.
-
-- **Impactful Countries**: By pinpointing the top countries driving sales, we highlighted key markets for AtliQ Hardware.
+# Excel-Sales-Analytics
+My Excel Project on Sales Analysis of AtliQ Hardware
+## Sales Report :
 
 
-## Contributions
+- **Project objective:** 
 
-Contributions and feedback are welcome! If you have suggestions, improvements, or would like to collaborate, please open an issue or create a pull request.
+    **1.** Create a _[customer performance report](https://github.com/Pravesh-Agarwal/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)_ 
 
-## Conclusion
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Pravesh-Agarwal/Excel-Sales-Analytics/blob/main/Customer%20Performance%20vs%20Target%20Report.pdf)_
 
-Our project with AtliQ Hardware demonstrates the tangible benefits of data-driven decision-making. We hope this repository serves as a valuable resource for understanding our journey to help AtliQ Hardware on their path to success.
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Pravesh-Agarwal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Pravesh-Agarwal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Months.pdf)_ 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Pravesh-Agarwal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf)_
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
